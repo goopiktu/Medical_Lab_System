@@ -1,0 +1,9 @@
+CRP;Covid-19 RT-PCR;2000;
+CAT;Covid-19 Antigen Test;1000;D;test;
+CBT;Covid-19 Antibody Test;500;
+jet;test1;1000;
+jet2;test2;2000;
+dib;helpwanted;3000;
+CAR;raceing;4000;
+NIP;chocolate chipp;280;
+BIB;bobby;789;

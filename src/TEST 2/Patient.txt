@@ -1,0 +1,6 @@
+P202206AAA00;Liobing;Aldwin;Bennett;2003;M;Bulacan;294354;1123;
+P202206AAA01;Tuco;Kevin;Bryan;2003;M;Manila;294358;103954;
+P202206AAA02;Xian;Po;Ping;2000;M;Valley of peace;34945;102;
+P202206AAA03;Portgas;Ace;D.;101;M;Whitebeard pirates;21433;12;
+P202206AAA04;Gasport;NotAce;NotD.;202;F;Blackbeard pirates;696969;07;
+P202206AAA05;Fist;Lettus;Yoo;2004;M;Yeetus Island;631451;7873453;
